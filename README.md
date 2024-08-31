@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naujforero
-- 👀 I’m interested in learning about data stuff. I'm exploring python and wanna start a data engineering path.
+- 👀 I’m interested in learning about data stuff.
 - 🌱 I'm exploring python and wanna start a data engineering path.
 - 📫 How to reach me: We're just for an email distance. Don't hessitate to mail me (naujforero@gmail.com)
 - 😄 Pronouns: ...
